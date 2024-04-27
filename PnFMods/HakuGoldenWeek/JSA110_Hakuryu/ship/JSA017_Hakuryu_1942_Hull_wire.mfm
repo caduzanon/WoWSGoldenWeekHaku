@@ -1,0 +1,10 @@
+<JSA017_Hakuryu_1942_Hull_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HakuGoldenWeek/JSA110_Hakuryu/ship/JSA017_Hakuryu_1942_Wire_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HakuGoldenWeek/JSA110_Hakuryu/ship/JSA017_Hakuryu_1942_Wire_mg.dds	</Texture>
+	</property>
+</JSA017_Hakuryu_1942_Hull_wire.mfm>

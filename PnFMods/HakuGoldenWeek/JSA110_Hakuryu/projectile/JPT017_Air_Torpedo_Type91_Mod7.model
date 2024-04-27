@@ -1,0 +1,7 @@
+<JPT017_Air_Torpedo_Type91_Mod7.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HakuGoldenWeek/JSA110_Hakuryu/projectile/lods/JPT017_Air_Torpedo_Type91_Mod7_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<nodefullVisual>	PnFMods/HakuGoldenWeek/JSA110_Hakuryu/projectile/JPT017_Air_Torpedo_Type91_Mod7	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JPT017_Air_Torpedo_Type91_Mod7.model>
